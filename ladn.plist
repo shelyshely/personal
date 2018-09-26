@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lanntest.15ol.com/images/user.png</string>
+					<string>http://lanntest.15ol.com/images/icon_ladn_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lanntest.15ol.com/images/tip2.png</string>
+					<string>http://lanntest.15ol.com/images/icon_ladn_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
